@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alextero21
 - 👀 I’m interested in learn, search and to be good in management
-- 🌱 I’m currently learning laravel, apache, javascript
+- 🌱 I’m currently learning laravel, apache, javascript -----
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
