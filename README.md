@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alextero21
+- 👋 Hi, I’m @alexis
 - 👀 I’m interested in learn, search and to be good in management
 - 🌱 I’m currently learning laravel, apache, javascript -----
 - 💞️ I’m looking to collaborate on ...
